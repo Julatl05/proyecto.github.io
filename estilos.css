@@ -1,0 +1,64 @@
+body{
+    background: url(imagenes/fondo2.jpg) 0 0/ cover no-repeat;
+    font-size: large;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.texto{
+    font-size: 6dvw;
+    margin: 2%;
+    background: url(imagenes/fondole.jpg) 0 0/ cover no-repeat;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#letra{
+    font-size: 2vw;
+    color: black;
+    margin: 2%;
+}
+
+.formulario{
+    opacity:0.4; 
+    filter:alpha(opacity=40);
+    margin: 1%;
+}
+
+.cont{
+    margin: 3%;
+}
+
+nav li:hover{
+    background-color: #059c8d;
+}
+
+.nav{
+    margin: 2%;
+}
+
+#barra{
+    background-color:#059c8d ;
+    background: #059c8d;
+    color: black;
+    font-size: larger;
+    border: 0.2rem solid #e8ffff;
+    border-radius: 0.5rem;
+    margin: 10px auto;
+    opacity: 0.5;
+    filter: alpha(opacity=40);
+}
+
+.foot{
+    color:#effefa ;
+    font-size: 2vw;
+    margin: 2%;
+}
+
+.cont-foot{
+    opacity:0.9; 
+    filter:alpha(opacity=40);
+    background-color: #013230;
+    border: 0.2rem solid #013230;
+    border-radius: 0.90rem;
+}
+

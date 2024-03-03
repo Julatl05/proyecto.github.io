@@ -1,0 +1,24 @@
+#carruselJose .carousel-inner > .item > img,
+#carruselJose .carousel-inner >  a > img {
+    width: 40%;
+    margin: auto;
+}
+
+#carruselJuanGabriel .carousel-inner > .item > img,
+#carruselJuanGabriel .carousel-inner >  a > img {
+    width: 40%;
+    margin: auto;
+}
+
+#carruselJulioJaramillo .carousel-inner > .item > img,
+#carruselJulioJaramillo .carousel-inner >  a > img {
+    width: 40%;
+    margin: auto;
+}
+
+#carruselPedroInfante .carousel-inner > .item > img,
+#carruselPedroInfante .carousel-inner >  a > img {
+    width: 40%;
+    margin: auto;
+}
+
